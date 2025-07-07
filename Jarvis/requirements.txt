@@ -1,5 +1,6 @@
-SpeechRecognition
-pyttsx3
-fastapi
-spacy
-nltk 
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pvporcupine==3.0.2
+vosk==0.3.45
+requests==2.31.0
+pywin32>=307 
